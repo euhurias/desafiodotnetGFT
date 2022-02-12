@@ -1,0 +1,15 @@
+/home/hurias/Documents/desafiodotnetGFT/bin/Debug/net6.0/desafiodotnetGFT
+/home/hurias/Documents/desafiodotnetGFT/bin/Debug/net6.0/desafiodotnetGFT.deps.json
+/home/hurias/Documents/desafiodotnetGFT/bin/Debug/net6.0/desafiodotnetGFT.runtimeconfig.json
+/home/hurias/Documents/desafiodotnetGFT/bin/Debug/net6.0/desafiodotnetGFT.dll
+/home/hurias/Documents/desafiodotnetGFT/bin/Debug/net6.0/ref/desafiodotnetGFT.dll
+/home/hurias/Documents/desafiodotnetGFT/bin/Debug/net6.0/desafiodotnetGFT.pdb
+/home/hurias/Documents/desafiodotnetGFT/obj/Debug/net6.0/desafiodotnetGFT.csproj.AssemblyReference.cache
+/home/hurias/Documents/desafiodotnetGFT/obj/Debug/net6.0/desafiodotnetGFT.GeneratedMSBuildEditorConfig.editorconfig
+/home/hurias/Documents/desafiodotnetGFT/obj/Debug/net6.0/desafiodotnetGFT.AssemblyInfoInputs.cache
+/home/hurias/Documents/desafiodotnetGFT/obj/Debug/net6.0/desafiodotnetGFT.AssemblyInfo.cs
+/home/hurias/Documents/desafiodotnetGFT/obj/Debug/net6.0/desafiodotnetGFT.csproj.CoreCompileInputs.cache
+/home/hurias/Documents/desafiodotnetGFT/obj/Debug/net6.0/desafiodotnetGFT.dll
+/home/hurias/Documents/desafiodotnetGFT/obj/Debug/net6.0/ref/desafiodotnetGFT.dll
+/home/hurias/Documents/desafiodotnetGFT/obj/Debug/net6.0/desafiodotnetGFT.pdb
+/home/hurias/Documents/desafiodotnetGFT/obj/Debug/net6.0/desafiodotnetGFT.genruntimeconfig.cache
